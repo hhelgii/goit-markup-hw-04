@@ -478,10 +478,12 @@ footer > .container {
     /* background-color: #fff; */
     /* border: 1px solid #E7E9FC; */
     width: calc((100% - 48) / 3);
+    box-shadow: 1px 1px 1px rgba(46, 47, 66, 0.08);
 }
 
 .service-link {
     display: block;
+    color: inherit;
 }
 
 .service-link:hover,
